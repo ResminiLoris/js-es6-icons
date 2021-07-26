@@ -1,0 +1,17 @@
+#form{
+    height: 100px;
+    background-color: #29B1DD;
+}
+
+main{
+    background-color: #DDDDDD;
+    height: calc(100vh - 100px);
+}
+
+.fas{
+    font-size: 30px;
+}
+
+#title{
+    color: #29B1DD;
+}
